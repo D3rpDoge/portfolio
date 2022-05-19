@@ -1,6 +1,12 @@
 body {
     background-color: lightblue;
   }
+
+  h2{
+    color: lightgray;
+    text-align: center;
+
+  }
   
   h1 {
     color: white;
